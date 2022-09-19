@@ -3,7 +3,7 @@
 
 ✍️ I'm Full Stack Web Developer.
 
-🦄 I'm aworking on Laravel,yii2,react,vue,WP Plugins etc
+🦄 I'm aworking on Laravel,yii2,react,vue,node js ,WP Plugins etc
 
 🇬🇧 I'm based in Pakistan.
 
