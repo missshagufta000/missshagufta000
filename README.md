@@ -5,7 +5,7 @@
 
 🦄 I'm aworking on Laravel,yii2,react,vue,node js ,WP Plugins etc
 
-🇬🇧 I'm based in Pakistan.
+(pk) I'm based in Pakistan.
 
 ✈️ I love to travel, especially to programming seminars!
 
